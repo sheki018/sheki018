@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey👋 Shekinah here!
+
+<img src="https://github.com/sheki018/sheki018/blob/main/assets/Shekinah.gif" width="970" height="500">
+
 
 **sheki018/sheki018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
