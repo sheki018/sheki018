@@ -16,9 +16,9 @@
 
 ## Some fun facts:
 
-👩‍🎓 I'm a Junior Computer Science Student.
+👩‍🎓 I'm a Senior Computer Science Student.
 
-😄 I'm a Microsoft Learn Student Ambassador.
+😄 I'm a Beta Microsoft Learn Student Ambassador.
 
 👩‍💻 I enjoy building responsive web applications.
 
